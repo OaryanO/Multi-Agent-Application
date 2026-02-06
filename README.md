@@ -19,7 +19,7 @@ Follow these steps from the beginning.
 
 ``` bash
 git clone https://github.com/OaryanO/Multi-Agent-Application
-cd ai_ops_assistant
+cd Multi-Agent-Application
 ```
 
 ### 2. Create virtual environment (.venv)
