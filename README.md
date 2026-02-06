@@ -55,6 +55,7 @@ cp .env.example .env
 ```
 
 Add API keys inside the `.env` file.
+(I have already added the SERP API key and OPENWEATHER API key in the .env but couldn't add the GROQ API as Github and GROQ are not allowing it and deactivating my old API key, so i have added a new GROQ API key in the KEY.txt file, kindly replace the placeholder i gave in the value for GROQ_API_KEY in the .env file. ) 
 
 ### 6. Run the project
 
