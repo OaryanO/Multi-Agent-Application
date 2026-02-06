@@ -9,7 +9,7 @@ st.title("🤖 AI Operations Assistant")
 
 query = st.text_area(
     "Enter a task",
-    placeholder="Check today’s weather in Bangalore and suggest an outdoor plan"
+    placeholder="Check today’s weather in Varanasi and suggest a date plan"
 )
 
 if st.button("Run Assistant"):
